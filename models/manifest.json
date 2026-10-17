@@ -1,0 +1,24 @@
+{
+  "hashes": {
+    "model.onnx": "332029b86cbc08797c173e7bbe768188d2595a651bf44d641f422de8976f7301",
+    "model.json": "5a459aa6108a24ead8336ba76801af39315ef2baebb0de82d922c800ad208039"
+  },
+  "metrics": {
+    "pr_auc": 0.9998487245186424,
+    "precision": 0.9,
+    "recall": 0.9997651479567872,
+    "block_threshold": 0.0011453889310359955,
+    "verify_threshold": 9.242879605153576e-05
+  },
+  "features": [
+    "amount",
+    "oldbalanceOrg",
+    "newbalanceOrig",
+    "oldbalanceDest",
+    "newbalanceDest",
+    "errorOrig",
+    "errorDest",
+    "hour",
+    "is_transfer"
+  ]
+}

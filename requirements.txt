@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+onnxmltools
+onnxruntime
+fastapi
+uvicorn
+requests
+python-dotenv
+pytest
+httpx
